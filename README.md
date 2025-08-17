@@ -1,4 +1,4 @@
-# WhatsApp-like Flutter Assessment
+# WhatsApp Assessment
 
 This project implements three main screens similar to WhatsApp:
 
